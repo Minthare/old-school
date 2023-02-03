@@ -1,7 +1,7 @@
 # Old School Project Proposal 
 
 ## Project Name
-* RHRSL (re·hears·al) 
+* astRnMy (as·tron·o·my)
 
 ## Project Lead
 * Joshua Pierre 
