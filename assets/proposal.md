@@ -16,10 +16,13 @@
 * Old School 
 
 ## Project Specs
-* The main appeal for our application will create the ability for you to search for a song you can't remember the entire name of and to find it and the lyrics for it; Also just to find lyrics for a song
-* The secondary goal will be to show the upcoming tour/live events of the artist of the song you searched  
-* API 1 - Genius: https://rapidapi.com/Glavier/api/genius-song-lyrics1 
-* API 2 - Ticketaster: https://rapidapi.com/stefan.skliarov/api/Ticketmaster 
+* The main appeal of our application will be to see the astronomy photo of the day! 
+* The fun twist on our application will not only be that you get to see a cool picture of something in space with all of its infomration displaying (real from NASA), but you will also find out which character from the hit show Rick and Morty is located in that specific location!  
+
+* API 1 - Astronomy Picture of the Day: https://go-apod.herokuapp.com/apod 
+    * Documentation: https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua 
+* API 2 - Rick and Morty: https://rickandmortyapi.com/api/character/108
+    * Documentation: https://rickandmortyapi.com/; 
 
 ## Wireframe
 
