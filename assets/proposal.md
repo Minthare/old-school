@@ -27,9 +27,11 @@
 ## Wireframe
 
 
+
 ## Breakdown of Tasks
-* HTML 
-* CSS
-* JavaScript
+* HTML - Blair Millet
+* CSS - Terry Lequernaque
+* JavaScript - Joshua Pierra, Cailen Hamm
+* README - Blair Millet, Terry Lequernaque, Joshua Pierre
 
 
